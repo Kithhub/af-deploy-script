@@ -2,7 +2,7 @@
 
 <!-- ## Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Kithhub/af-deploy-script)
 <br> -->
 
 ## Heroku
